@@ -1,6 +1,8 @@
 ## Hi there, I'm Cleber Casagrande 👋
 
-<img align="right" alt="Coding gif" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <img src="https://imgur.com/a/yjYWHWI" alt="Yu-Gi-Oh Stardust Dragon Gif" height="250">
+</div>
 
 - 🔭 Currently working with **Front-end Development**  
 - 🌱 Learning **Full Stack Development**  
@@ -40,18 +42,6 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cleber2010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleber2010&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-## 🎮 Fun Zone  
-
-<div align="center">
-  <!-- Pac-Man -->
-  <img src="https://media.giphy.com/media/QX15QpB8DpKkA/giphy.gif" height="150" alt="Pac-Man gif">
-  
-  <!-- Cool hacker gif -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="Hacker gif">
 </div>
 
 ---
