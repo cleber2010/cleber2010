@@ -1,8 +1,6 @@
 ## Hi there, I'm Cleber Casagrande 👋
 
-<div align="center">
-  <img src="https://i.imgur.com/P6kjC2y.gif" alt="Yu-Gi-Oh Stardust Dragon Gif" height="250">
-</div>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/yjYWHWI" data-context="false" ><a href="//imgur.com/a/yjYWHWI">yugiii</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 - 🔭 Currently working with **Front-end Development**  
 - 🌱 Learning **Full Stack Development**  
