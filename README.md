@@ -1,9 +1,6 @@
 ## Hi there, I'm Cleber Casagrande 👋
 
 
-  <img align="right" alt="Coding gif" height="150" src="./自己分解𝕬𝖚𝖙𝖔𝖑𝖞𝖘𝖎𝖘 シゴ𝕾𝖍𝖎𝖌𝖔 -Via KLICKPIN CF.gif" alt="Yu-Gi-Oh Stardust Dragon Gif">
-
-
 - 🔭 Currently working with **Front-end Development**  
 - 🌱 Learning **Full Stack Development**  
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/cleber-vicenzo-b11204253/)  
