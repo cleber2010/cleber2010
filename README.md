@@ -46,7 +46,8 @@ Criei um pipeline de dados que:
 - Carrega no Postgres com Python (ETL)  
 - Consulta com SQL e visualiza dados (Gold)  
 
-Veja o repositório completo aqui: [link-do-repo]([#](https://github.com/cleber2010/MEDALLION_ARCHITECTURE))
+Veja o repositório completo aqui: [MEDALLION_ARCHITECTURE](https://github.com/cleber2010/MEDALLION_ARCHITECTURE)
+
 
 ---
 
