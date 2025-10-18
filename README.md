@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou o Cleber Casagrande  
+# 👋 Olá! Eu sou o Cléber Casagrande  
 
-Sou um entusiasta de **Engenharia de Dados** em transição de **Front-end** para o mundo de **Data Engineering**.  
+Sou um entusiasta de **Engenharia de Dados** em transição de **Full Stack** para o mundo de **Data Engineering**.  
 Atualmente estudo e desenvolvo projetos práticos para entender **pipelines de dados**, **ETL**, **armazenamento em nuvem** e **visualização de dados**.
 
-- 📊 Apaixonado por transformar dados crus em insights valiosos  
-- 🚀 Em aprendizado contínuo de **Python, SQL, Postgres, Docker e Data Pipelines**  
-- 🌐 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/cleber-vicenzo-b11204253/)  
+- 📊 Apaixonado por transformar dados crus em insights valiosos;  
+- 🚀 Em aprendizado contínuo de **Python, SQL, Postgres, Docker e Data Pipelines**;  
+- 🌐 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/cleber-vicenzo-b11204253/) . 
 
 ---
 
@@ -31,10 +31,10 @@ Atualmente estudo e desenvolvo projetos práticos para entender **pipelines de d
 
 ## 📚 O que estou aprendendo agora
 
-- Projetos práticos de **ETL (Extract, Transform, Load)**  
-- Pipelines de dados com **Python + Pandas + SQL**  
-- Armazenamento em **Postgres** usando **Docker**  
-- **Visualização de dados** com Matplotlib/PowerBI  
+- Projetos práticos de **ETL (Extract, Transform, Load)** ; 
+- Pipelines de dados com **Python + Pandas + SQL**;  
+- Armazenamento em **Postgres** usando **Docker**;  
+- **Visualização de dados** com Matplotlib/PowerBI.  
 
 ---
 
