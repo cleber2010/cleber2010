@@ -15,6 +15,10 @@ Engenheiro de Software em transição para **Engenharia de Dados**, com foco em 
   Coleta links de personagens, extrai informações básicas e aparições e exporta em **CSV** e **Parquet**.  
   Repo: https://github.com/cleber2010/data-collect
 
+- **TabNews API Collector (Contents)**  
+  Coletor de dados via API pública do TabNews (`/api/v1/contents`) com paginação. Salva os resultados em **JSON** (e opcionalmente **Parquet**) com timestamp.  
+  Repo: https://github.com/cleber2010/TabNews
+
 - **Medallion Architecture (Bronze → Silver → Gold)**  
   Pipeline com ingestão, normalização em Parquet e carga/consulta em PostgreSQL.  
   Repo: https://github.com/cleber2010/MEDALLION_ARCHITECTURE
