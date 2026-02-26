@@ -40,3 +40,7 @@ Atuo na construção de pipelines (ETL/ELT), modelagem de dados, padronização 
 - **Medallion Architecture (Bronze → Silver → Gold)**  
   Pipeline com ingestão, normalização em Parquet e carga/consulta em PostgreSQL.  
   Repo: https://github.com/cleber2010/MEDALLION_ARCHITECTURE
+
+- **ETL & Feature Store — Loyalty System (SQLite + SQL)**  
+  Pipeline analítico em **SQLite** para construção de uma **feature store por cliente**, incluindo janelas temporais, comportamento transacional, produto mais recorrente e padrões de uso. Orquestrado em **Python (Pandas + SQLAlchemy)**.  
+  Repo: https://github.com/cleber2010/curso-sql
